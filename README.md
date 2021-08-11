@@ -1,5 +1,11 @@
 # Rime_Yitian_26Keys
-RIME 倚天26鍵方案（Windows）
+
+
+##RIME 倚天26鍵輸入方案（Windows）
+
+- 點選 **【小狼毫】用戶文件夾** 將檔案COPY此目錄下，再執行 **【小狼毫】重新部署** ，即可在選單(F4)內找到該輸入法
+
+  > 倚天26鍵 RIME輸入方案 : yitian_26Keys.dict.yaml , yitian_26Keys.schema.yaml
 
 - 鍵位圖
 
