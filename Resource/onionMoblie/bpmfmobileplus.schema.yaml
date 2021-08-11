@@ -12,9 +12,6 @@ schema:
 
   dependencies:
     - sy_bpmf
-    - latinin1
-    - jpnin1
-    - hangeul
     - mobile_bpmf
 
 switches:
