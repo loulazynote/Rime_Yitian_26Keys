@@ -24,9 +24,6 @@ switches:
   - name: ascii_punct
     reset: 0
     states: [ "。，", "．，" ]
-  - name: s2tw
-    # reset: 1
-    states: [ 简, 繁 ]
 
 
 engine:
@@ -53,13 +50,11 @@ engine:
   filters:
     - simplifier
     - uniquifier
-    - single_char_filter
 
 speller:
   alphabet: '/;zyxwvutsrqponmlkjihgfedcba'
   initials: 'abcdefghijklmnopqrstuvwxyz;'
   finals: '/'
-  # delimiter: ""
   auto_select: true
   auto_select_pattern: ^;.$|^\w{4}$
   max_code_length: max_length
@@ -71,11 +66,8 @@ translator:
   enable_sentence: false
   enable_completion: false
   enable_user_dict: false
-  # max_phrase_length: 5
 
 simplifier:
-  opencc_config: s2tw.json
-  option_name: s2tw
   tips: all #简繁对照
 
 punctuator:
