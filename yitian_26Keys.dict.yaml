@@ -1176,7 +1176,7 @@ columns:
 鯗	cetj
 饟	cetj
 晑	cetj
-像	cetk
+像	cetk	80%
 相	cetk
 向	cetk
 象	cetk
@@ -2483,6 +2483,7 @@ k	鄯	c
 餖	dpk	
 梪	dpk	
 得	dqj	
+的	dr	80%
 的	drd	
 得	drd	
 得	drf	
@@ -3400,8 +3401,8 @@ e	ㄧ
 輶	epf	
 楢	epf	
 浟	epf	
-有	epj	
-友	epj	
+有	epj	80%	
+友	epj	75%
 酉	epj	
 黝	epj	
 莠	epj	
@@ -5775,9 +5776,9 @@ g	ㄐ
 紵	gxk
 樦	gxk
 嵀	gxk
-中	gxl
+中	gxl	80%
 終	gxl
-鐘	gxl
+鐘	gxl	60%
 忠	gxl
 鍾	gxl
 衷	gxl
@@ -5986,6 +5987,7 @@ g	ㄐ
 嗨	hi
 咳	hi
 咍	hi
+還	hi	80%
 還	hif
 孩	hif
 骸	hif
@@ -9508,7 +9510,7 @@ g	ㄐ
 軯	pl
 匉	pl
 駍	pl
-朋	plf
+朋	plf	60%
 棚	plf
 彭	plf
 澎	plf
@@ -10106,7 +10108,7 @@ g	ㄐ
 噁	rj
 惡	rk
 俄	rk
-餓	rk
+餓	rk	60%
 啞	rk
 呃	rk
 厄	rk
