@@ -1,0 +1,20 @@
+# Rime dictionary
+# encoding: utf-8
+# 《洋蔥 手機注音 字詞庫匯入頁》
+# 『洋蔥』製作
+# 中文字詞標註使用拼音
+---
+name: bpmfmobile.extended
+version: "202108"
+sort: by_weight
+vocabulary: essay-zh-hant-onion
+use_preset_vocabulary: true
+max_phrase_length: 7
+min_phrase_weight: 100
+import_tables:
+  - terra_pinyin_onion
+  - terra_pinyin_onion_add
+  - phrases.chtp
+#  - phrases.cht
+...
+##### 以下可自行添加詞句 #####
