@@ -16,7 +16,7 @@ schema:
 
 switches:
   - name: ascii_mode
-    reset: 0
+    reset: 1
     states: [ "中", "En" ]
   - name: ascii_punct
     reset: 1
