@@ -57,7 +57,7 @@ speller:
   max_code_length: max_length
 
 translator:
-  dictionary: yitian_26Keys
+  dictionary: yitian_26Keys.extended
   prism: yitian_26Keys
   enable_charset_filter: false
   enable_sentence: false

@@ -11,7 +11,12 @@ min_phrase_weight: 100
 columns:
   - text
   - code
-  - stem
+  - weight
+  
+import_tables:
+  - luna_pinyin
+  - luna_pinyin.hanyu
+  - terra_pinyin_onion
 ...
 
 ㄚ	a
@@ -13440,7 +13445,7 @@ g	ㄐ
 芛	xqj
 蘤	xqj
 浘	xqj
-為	xqk
+為	xqk	99%
 位	xqk
 未	xqk
 味	xqk
@@ -13542,7 +13547,7 @@ g	ㄐ
 偛	ya
 鎈	ya
 杈	ya
-查	yaf
+查	yaf	99%
 察	yaf
 茶	yaf
 碴	yaf

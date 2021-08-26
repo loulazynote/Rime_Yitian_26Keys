@@ -1,0 +1,13 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: yitian_26Keys.extended
+version: "202108"
+sort: by_weight
+vocabulary: essay-zh-hant-onion
+#use_preset_vocabulary: true
+import_tables:
+  - yitian_26Keys
+...
+##### 以下可自行添加詞句 #####
+因為		en xqk
