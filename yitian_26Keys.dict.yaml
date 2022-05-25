@@ -14,9 +14,9 @@ columns:
   - weight
   
 import_tables:
-  - luna_pinyin
-  - luna_pinyin.hanyu
+  - terra_pinyin
   - terra_pinyin_onion
+  - bopomofo
 ...
 
 ㄚ	a
@@ -257,6 +257,7 @@ import_tables:
 賓	ben
 斌	ben
 濱	ben
+殯	ben
 檳	ben
 繽	ben
 瀕	ben
@@ -2352,12 +2353,11 @@ k	鄯	c
 獃	di	
 歹	dij	
 逮	dij	
-大	dik	
 代	dik	
 帶	dik	
 待	dik	
 戴	dik	
-袋	dik	
+袋	dik	80%
 貸	dik	
 黛	dik	
 逮	dik	
@@ -6770,6 +6770,7 @@ g	ㄐ
 埃	i
 挨	i
 誒	i
+欸	i
 捱	if
 皚	if
 騃	if
@@ -8689,6 +8690,7 @@ g	ㄐ
 慲	mmf
 鬗	mmf
 悗	mmf
+蟎	mmf
 滿	mmj
 矕	mmj
 屘	mmj
@@ -9839,6 +9841,7 @@ g	ㄐ
 胔	qk
 胾	qk
 剚	qk
+欸	qk
 曾	ql
 增	ql
 憎	ql
