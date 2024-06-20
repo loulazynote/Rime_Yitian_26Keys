@@ -2,8 +2,8 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3
   generator: "Rime::SwitcherSettings"
-  modified_time: "Thu Jun  3 18:14:04 2021"
-  rime_version: 1.7.3
+  modified_time: "Thu Oct 21 17:04:30 2021"
+  rime_version: 1.5.3
 patch:
   "key_binder/bindings":
     - {accept: "Control+Shift+1", select: .next, when: always}

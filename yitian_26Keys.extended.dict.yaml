@@ -4,7 +4,7 @@
 name: yitian_26Keys.extended
 version: "202108"
 sort: by_weight
-vocabulary: essay-zh-hant-onion
+vocabulary: essay-zh-hant-mc
 import_tables:
   - yitian_26Keys
 ...
@@ -86,3 +86,4 @@ import_tables:
 吹毛求疵	yxq mzf vepf w	2
 塵蟎	ynf mmf 3
 殯葬	ben qtk 2
+為何 	xqk hrf	0

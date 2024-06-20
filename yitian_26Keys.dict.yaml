@@ -4,8 +4,8 @@
 ---
 name: yitian_26Keys
 version: "0.1.1"
-sort: by_weight
-use_preset_vocabulary: true
+sort: original
+use_preset_vocabulary: false
 max_phrase_length: 7
 min_phrase_weight: 100
 columns:
@@ -6159,7 +6159,7 @@ g	ㄐ
 喝	hr
 訶	hr
 峆	hr
-何	hrf
+何	hrf	99%
 和	hrf
 合	hrf
 核	hrf
@@ -13449,7 +13449,7 @@ g	ㄐ
 芛	xqj
 蘤	xqj
 浘	xqj
-為	xqk	99%
+為	xqk	100%
 位	xqk
 未	xqk
 味	xqk
