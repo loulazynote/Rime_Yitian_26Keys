@@ -4,11 +4,11 @@
 
 ## 檔案列表
 
-> 倚天26鍵 RIME輸入方案 : 
->    - yitian_26Keys.dict.yaml
->    - yitian_26Keys.extended.dict.yaml
->    - yitian_26Keys.custom.yaml
->    - yitian_26Keys.schema.yaml
+- 倚天26鍵 RIME輸入方案 : 
+   - yitian_26Keys.dict.yaml
+   - yitian_26Keys.extended.dict.yaml
+   - yitian_26Keys.custom.yaml
+   - yitian_26Keys.schema.yaml
 
 ## 安裝方式
 
