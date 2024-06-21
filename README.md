@@ -1,4 +1,4 @@
-# RIME 倚天26鍵輸入方案（Windows）
+# RIME 倚天26鍵輸入方案（CrossPlan）
 
 > 本方案是參考 @oniondelta/Onion_Rime_Files 的[洋蔥輸入法](https://github.com/oniondelta/Onion_Rime_Files) 
 
