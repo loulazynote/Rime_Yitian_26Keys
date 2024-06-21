@@ -27,7 +27,7 @@
 
 ## 注意事項
 
-- `essay-zh-hant-mc.txt` 是引用至 [洋蔥輸入法](https://github.com/oniondelta/Onion_Rime_Files)  
+- `essay-zh-hant-mc.txt` 是引用至 [洋蔥輸入法](https://github.com/oniondelta/Onion_Rime_Files/blob/main/allfiles/essay-zh-hant-mc.txt)  
   > 20240620 停用預設八股文依賴, 改用洋蔥輸入法提供八股文
 - 簡繁轉換需安裝opencc才可使用
 
