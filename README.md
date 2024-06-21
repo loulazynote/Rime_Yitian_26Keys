@@ -22,7 +22,7 @@
 	- Windows: 從開始選單選擇 **重新部署**;或當開啓右下工具列看到輸入法Icon時，對Icon點右鍵選擇 **重新佈署**
 	- Linux : 點輸入法狀態欄（或IBus菜單）上的 ⟲ (Deploy) 按鈕
 	  > 如果是用Gnome desktop可以到Gnome Extension安裝[**Input Method Panel**](https://extensions.gnome.org/extension/261/kimpanel/)
-	- MacOS: 在系統語言文字選單中選擇 "重新佈署""
+	- MacOS: 在系統語言文字選單中選擇 **重新佈署**
 - 完成後即可在選單(F4)內找到該輸入法
 
 ## 注意事項
