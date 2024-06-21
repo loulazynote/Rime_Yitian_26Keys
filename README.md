@@ -19,7 +19,7 @@
 	- MacOS: `~/Library/Rime/`
 
 - 執行 **重新部署** ，即可在選單(F4)內找到該輸入法
-	- Windows: 從開始選單選擇 "重新部署";或當開啓右下工具列看到輸入法Icon時，對Icon點右鍵選擇""重新佈署"
+	- Windows: 從開始選單選擇 **重新部署**;或當開啓右下工具列看到輸入法Icon時，對Icon點右鍵選擇 **重新佈署**
 	- Linux : 點輸入法狀態欄（或IBus菜單）上的 ⟲ (Deploy) 按鈕
 	  > 如果是用Gnome desktop可以到Gnome Extension安裝[**Input Method Panel**](https://extensions.gnome.org/extension/261/kimpanel/)
 	- MacOS: 在系統語言文字選單中選擇 "重新佈署""
@@ -27,7 +27,7 @@
 
 ## 注意事項
 
-- `essay-zh-hant-mc.txt` 是引用至 洋蔥輸入法 
+- `essay-zh-hant-mc.txt` 是引用至 [洋蔥輸入法](https://github.com/oniondelta/Onion_Rime_Files)  
   > 20240620 停用預設八股文依賴, 改用洋蔥輸入法提供八股文
 - 簡繁轉換需安裝opencc才可使用
 
